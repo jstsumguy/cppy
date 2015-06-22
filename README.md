@@ -1,6 +1,6 @@
 Copy Parse
 ==============
-- Formats phone numbers and emails in a pretty table format
+- Formats phone numbers and emails in a pretty table format from copied text
 
 Usage
 --------------
