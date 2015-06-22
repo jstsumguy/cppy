@@ -6,4 +6,4 @@ Usage
 --------------
     python -m cppy
 
-![alt tag](https://raw.github.com/jstsumguy/cppy/branch/sample.png)
+![alt tag](https://github.com/jstsumguy/cppy/blob/master/sample.png)
